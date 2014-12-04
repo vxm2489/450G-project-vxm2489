@@ -1,43 +1,17 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# All the text files
+# *.txt
+*.rtf
 
-# Folder config file
-Desktop.ini
+# Compiled java code
+*.class
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+# Package Files #
+*.jar
+*.war
+*.ear
 
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Icon must end with two \r
-Icon
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+# virtual machine crash logs
+hs_err_pid*
